@@ -7,7 +7,7 @@
 
 <strong>connect with me:</strong> <br>
 <a href="https://www.linkedin.com/in/danilo-silva-953baa41" target="_blank">
-  <img align="center" alt="Danilo LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <img align="center" alt="Danilo LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/>
 </a><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosilva91)](https://github.com/anuraghazra/github-readme-stats)<br>
