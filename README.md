@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**danilosilva91/danilosilva91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação, com foco em front-end e tecnologias modernas como JavaScript, React, HTML e CSS.<br>
+🔍 Interesse em criar aplicações escaláveis e intuitivas, aplicando boas práticas de código e usabilidade.<br>
+📚 Atualmente aprimorando conhecimentos em componentização, hooks e responsividade.<br>
+🌟 Objetivo: evoluir como profissional e contribuir para projetos de impacto.<br>
 
-Here are some ideas to get you started:
+<strong>connect with me:</strong> <br>
+<a href="https://www.linkedin.com/in/danilo-silva-953baa41" target="_blank">
+  <img align="center" alt="Danilo LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosilva91)](https://github.com/anuraghazra/github-readme-stats)<br>
+
+[![Danilo stats](https://github-readme-stats.vercel.app/api?username=danilosilva91)](https://github.com/anuraghazra/github-readme-stats)
+
+
