@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 💻 Desenvolvedor em formação, com foco em front-end e tecnologias modernas como JavaScript, React, HTML e CSS.<br>
 🔍 Interesse em criar aplicações escaláveis e intuitivas, aplicando boas práticas de código e usabilidade.<br>
